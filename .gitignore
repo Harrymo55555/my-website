@@ -1,0 +1,7 @@
+dist/
+.DS_Store
+.sites-runtime/
+.env*
+!.env.example
+资料库/
+.github-pages-deployment.json
